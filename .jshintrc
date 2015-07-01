@@ -1,0 +1,20 @@
+{
+	"camelcase" : true,
+	"indent": 1,
+	"undef": true,
+	"trailing": true,
+	"curly": true,
+
+	"browser": true,
+	"devel": true,
+	"trailing": true,
+	"sub": true,
+	"eqeqeq": true,
+	"unused": true,
+	"evil": true,
+	"expr": true,
+	"predef": [
+		"require",
+		"module"
+	]
+}

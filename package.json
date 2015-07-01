@@ -1,0 +1,20 @@
+{
+  "name": "absolute-material",
+  "version": "0.0.0",
+  "description": "Library of UI components with material design",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "absolute": "master",
+    "ksf": "master"
+  },
+  "devDependencies": {
+    "browserify": "latest"
+  },
+  "scripts": {
+    "build-demo": "browserify demo/DemoSource.js -o demo/build.js"
+  },
+  "author": "KaeS",
+  "license": "ISC"
+}
